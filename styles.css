@@ -1,0 +1,28 @@
+nav{
+    background-color: rgb(47, 122, 122);
+    width:100%;
+    height: 90px;
+}
+nav ul{
+float:right;
+
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav ul li{
+    list-style-type:none;
+    display: inline-block;
+    padding-left:30px;
+    padding-right:30px;
+    padding-top: 15px;
+
+}
+a{
+    color: rgb(174, 210, 224);
+}
+.logo{
+    font-size: 50px;
+    padding-right:500px;
+    color:rgb(174, 210, 224);
+}
